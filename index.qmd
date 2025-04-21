@@ -1,0 +1,9 @@
+---
+title: "20th European Meeting<br>on Complement in Human Diseases"
+subtitle: "September 1-5, 2026 | Cardiff, UK"
+title-block-banner: "#de1115"
+#title-block-banner: images/poster.svg
+title-block-banner-color: white
+---
+
+![](images/poster.svg)
