@@ -4,6 +4,7 @@ project:
 
 website:
   title: "EMCHD 2026"
+  site-url: https://emchd2026.org/
   announcement: 
     icon: info-circle
     dismissable: true
