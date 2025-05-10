@@ -1,1 +1,17 @@
 /* css styles */
+
+/* Hide the title text */
+.quarto-title .title {
+  visibility: hidden;
+  display: none; /* Use both for broader compatibility */
+}
+
+/* Existing styles for the banner background */
+.quarto-title-block .quarto-title-banner {
+  background-image: url('images/banner.png'); /* Specify image here as well for safety */
+  background-size: cover; /* Ensures the image covers the entire banner area */
+  background-position: center; /* Centers the image in the banner */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  /* You might still need to adjust the height */
+  height: 250px; /* Example height, adjust as needed */
+}

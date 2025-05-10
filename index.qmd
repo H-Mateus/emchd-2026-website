@@ -1,9 +1,7 @@
 ---
-title: "20th European Meeting<br>on Complement in Human Disease"
-subtitle: "September 1-5, 2026 | Cardiff, Wales UK"
-title-block-banner: "#de1115"
-#title-block-banner: images/poster.svg
-title-block-banner-color: white
+title: "x"
+title-block-banner: images/banner.png
+css: styles.css
 ---
 
 ![](images/poster.svg)
