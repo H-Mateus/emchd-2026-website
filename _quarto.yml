@@ -19,8 +19,8 @@ website:
         text: Home
       - href: content/travel.qmd
         text: Travel
-      - href: content/accomodation.qmd
-        text: Accomodation
+      - href: content/accommodation.qmd
+        text: Accommodation
       - href: content/venue.qmd
         text: Venue & Locations
       - href: content/committee.qmd
