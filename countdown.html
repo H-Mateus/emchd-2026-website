@@ -1,0 +1,40 @@
+<div id="countdown-container" style="
+    font-size: 1.1em;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5em;
+    background-color: #f8f9fa; /* light grey to match Cosmo */
+    color: #00693E; /* green text */
+    border: 2px solid #D30707; /* thin red border */
+    border-radius: 6px;
+    margin-bottom: 1em;
+">
+  Countdown to EMCHD2026: <span id="countdown"></span>
+</div>
+
+<script>
+const conferenceDate = new Date("2026-09-01T09:00:00").getTime();
+
+function updateCountdown() {
+  const now = new Date().getTime();
+  const timeLeft = conferenceDate - now;
+
+  if (timeLeft <= 0) {
+    document.getElementById("countdown").innerHTML = "The conference has started!";
+    clearInterval(timer);
+    return;
+  }
+
+  const days = Math.floor(timeLeft / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((timeLeft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((timeLeft % (1000 * 60 * 60)) / (1000 * 60));
+  const seconds = Math.floor((timeLeft % (1000 * 60)) / 1000);
+
+  document.getElementById("countdown").innerHTML =
+    `${days} days ${hours}h ${minutes}m ${seconds}s`;
+}
+
+const timer = setInterval(updateCountdown, 1000);
+updateCountdown();
+</script>
+
