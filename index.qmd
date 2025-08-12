@@ -1,7 +1,110 @@
 ---
 title: "EMCDH 2026"
 title-block-banner: images/banner.png
-css: styles.css
+#include-after-body: countdown.html
 ---
 
-![](images/poster.svg)
+::: {.column-margin}
+
+<div style="font-size:1.3em; font-weight:bold;">
+  <span style="color:#D30707;">Countdown to EMCDH 2026:</span><br>
+  <span id="countdown" style="color:#00693E;"></span>
+</div>
+
+<script>
+// Set the target date (YYYY-MM-DDTHH:MM:SS)
+var countDownDate = new Date("2026-09-01T09:00:00").getTime();
+
+var countdownFunction = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+
+  if (distance < 0) {
+    document.getElementById("countdown").innerHTML = "The conference has started!";
+    clearInterval(countdownFunction);
+    return;
+  }
+
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  document.getElementById("countdown").innerHTML =
+    days + "d " + hours + "h " + minutes + "m " + seconds + "s";
+}, 1000);
+</script>
+
+:::
+
+# Join us in cardiff for EMCHD 2026
+
+We are delighted to welcome you to the **20th European Meeting on Complement in Human Disease (EMCHD26)**, taking place from **1st - 5th September 2026** in **Cardiff, Wales**.
+
+This key meeting in the complement field will bring together researchers, clinicians, and industrial delegates from across the globe to explore new research findings in complement biology, including disease mechanisms, biomarker discovery and therapeutic innovations.  
+Join us in Cardiff, the capital of Wales, for five days of science, collaboration, and vibrant discussions.
+
+# Our Keynotes
+
+We are excited to welcome world-class keynote speakers:
+
+![](images/250812-153321.avif)
+
+# Abstract Submission
+
+Abstracts will be submitted via **Oxford Abstracts**, and accepted abstracts, along with Invited Reviews, will be published in a Special Issue of **Clinical & Experimental Immunology (Wiley)**.
+
+Abstract Submission opens in early 2026. 
+Please check back for updates or sign up for notifications ([emchd2026@cardiff.ac.uk](mailto:emchd2026@cardiff.ac.uk)).
+
+# Registration
+
+## Main Conference [1st – 5th Sep 2026]
+
+Registration will open in early 2026.  
+Please check back for updates or sign up for notifications.  
+
+**Register your interest / Join mailing list**: [emchd2026@cardiff.ac.uk](mailto:emchd2026@cardiff.ac.uk)
+
+## Satellite Symposium: Complement and the Brain [1st Sep 2026]
+
+We are delighted to host a satellite symposium on 'Complement and the Brain', running in parallel with the Teaching Day (on Tuesday 1st September 2026). 
+This symposium will focus on the emerging roles of complement in neuroinflammation and neurodegenerative diseases, with presentations ranging from fundamental mechanisms to therapeutic developments.
+
+In the late afternoon of the satellite symposium the keynote will be delivered by Professor Siddharthan Chandran (Director, UK Dementia Research Institute), whose bench-to-bedside work has transformed our understanding of neurodegeneration.
+
+We are grateful to the UK DRI for supporting this event. 
+
+Registration will be open in early 2026 to all (including those not attending the main conference).
+
+## Social Excursions [4th Sep 2026, afternoon]
+
+Enjoy the best of Welsh history and hospitality; options for trips will include:
+
+- Cardiff Castle tour [https://www.cardiffcastle.com/](https://www.cardiffcastle.com/)
+- Caerphilly Castle tour [https://www.visitwales.com/attraction/castle/caerphilly-castle-cadw-1891933](https://www.visitwales.com/attraction/castle/caerphilly-castle-cadw-1891933)
+- National Museums of Wales Cardiff [https://museum.wales/cardiff/](https://museum.wales/cardiff/)
+- St Fagans National Museum of History [https://museum.wales/stfagans/](https://museum.wales/stfagans/)
+- City walking tour
+
+All excursions will be available to select during registration on a first come, first served basis. For ECR social events, please see the ECR Activities tab.
+
+### We look forward to welcoming you
+
+Cardiff is a dynamic capital city, rich in culture and history – the perfect setting to host our international complement community. 
+We’re excited to welcome you to EMCHD2026 to share science, ideas, and a little Welsh hospitality.
+
+{{< video https://www.youtube.com/watch?v=UqicqIMGGpI >}}
+
+# Our Sponsors
+
+We thank our sponsors for their generous support in making this meeting possible.
+
+![](images/250812-153940.avif)
+
+More to join! 
+
+**See you in Cardiff!**
+
+The EMCHD2026 Local Organising Committee
+
