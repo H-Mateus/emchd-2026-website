@@ -1,0 +1,63 @@
+---
+title: "Venue & Locations"
+---
+
+All venues are fully accessible.
+
+:::: {.columns}
+
+::: {.column width="30%"}
+Centre for Student Life (CSL) [1st – 5th Sep 2026]  
+
+- Main Conference  
+- Satellite Symposium  
+- Opening ceremony
+
+Park Place, Cardiff, CF10 3BB, Cardiff University, Wales  
+[https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/centre-for-student-life](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/centre-for-student-life)
+:::
+
+::: {.column width="70%"}
+![](venue-img/250812-141624.avif)
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="30%"}
+Hadyn Ellis Building [1st Sep 2026]  
+
+- Teaching Day
+
+Maindy Road, Cardiff, CF24 4HQ, Cardiff University, Wales (11 min walk from CSL)  
+[https://www.cardiff.ac.uk/campus-developments/projects/hadyn-ellis-building](https://www.cardiff.ac.uk/campus-developments/projects/hadyn-ellis-building)
+:::
+
+::: {.column width="70%"}
+![](venue-img/250812-152041.avif)
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="30%"}
+Hilton Hotel, Cardiff city centre [4th Sep 2026]  
+
+- Gala Dinner
+
+Kingsway, Greyfriars Road, Cardiff CF10 3HH, Wales (10 min walk from CSL)  
+[https://www.hilton.com/en/hotels/cwlhitw-hilton-cardiff](https://www.hilton.com/en/hotels/cwlhitw-hilton-cardiff)
+:::
+
+::: {.column width="70%"}
+![](venue-img/250812-152155.avif)
+:::
+
+::::
+
+
+
+
+
