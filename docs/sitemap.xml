@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://emchd2026.org/content/travel.html</loc>
+    <lastmod>2025-08-12T15:21:45.832Z</lastmod>
+  </url>
+  <url>
     <loc>https://emchd2026.org/index.html</loc>
-    <lastmod>2025-05-10T12:03:24.399Z</lastmod>
+    <lastmod>2025-08-12T16:18:47.415Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emchd2026.org/content/accomodation.html</loc>
+    <lastmod>2025-08-12T12:54:22.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emchd2026.org/content/venue.html</loc>
+    <lastmod>2025-08-12T14:22:52.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://emchd2026.org/content/committee.html</loc>
+    <lastmod>2025-08-12T14:31:50.817Z</lastmod>
   </url>
 </urlset>
