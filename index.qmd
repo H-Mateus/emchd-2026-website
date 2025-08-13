@@ -134,6 +134,10 @@ Enjoy the best of Welsh history and hospitality; options for trips will include:
 
 All excursions will be available to select during registration on a first come, first served basis. For ECR social events, please see the ECR Activities tab.
 
+## Interactive map of locations
+
+<iframe width="100%" height="576" src="https://maphub.net/embed_h/vif0YthoOKyAwxmA?panel=1&panel_closed=1" frameborder="0"></iframe>
+
 ### We look forward to welcoming you
 
 Cardiff is a dynamic capital city, rich in culture and history – the perfect setting to host our international complement community. 
