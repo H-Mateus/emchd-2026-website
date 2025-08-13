@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="floating nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -133,87 +133,15 @@ ul.task-list li input[type="checkbox"] {
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
-<div id="navbar-countdown" style="display:none;">
-  <span class="label">Countdown to EMCHD2026:</span>
-  <span id="countdown" aria-live="polite"></span>
-</div>
-
-<script>
-(function(){
-  // ====== Configuration ======
-  const conferenceDate = new Date("2026-09-01T09:00:00+01:00").getTime(); // adjust timezone if desired
-
-  // ====== Countdown logic ======
-  function formatTimeLeft(ms) {
-    const days = Math.floor(ms / (1000 * 60 * 60 * 24));
-    const hours = Math.floor((ms % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-    const minutes = Math.floor((ms % (1000 * 60 * 60)) / (1000 * 60));
-    const seconds = Math.floor((ms % (1000 * 60)) / 1000);
-    return `${days}d ${hours}h ${minutes}m ${seconds}s`;
-  }
-
-  function updateCountdownText() {
-    const now = Date.now();
-    const left = conferenceDate - now;
-    const el = document.getElementById("countdown");
-    if (!el) return;
-    if (left <= 0) {
-      el.textContent = "The conference has started!";
-      clearInterval(interval);
-      return;
-    }
-    el.textContent = formatTimeLeft(left);
-  }
-
-  updateCountdownText();
-  const interval = setInterval(updateCountdownText, 1000);
-
-  // ====== DOM placement ======
-  function placeCountdown() {
-    const countdown = document.getElementById('navbar-countdown');
-    if (!countdown) return;
-
-    // Where the navbar lives (try common selectors)
-    const nav = document.querySelector('nav.navbar')
-             || document.querySelector('header .navbar')
-             || document.querySelector('header')
-             || document.querySelector('nav')
-             || document.querySelector('.site-header');
-
-    // If no nav found, prepend to body as a fallback
-    if (!nav) {
-      document.body.insertBefore(countdown, document.body.firstChild);
-      countdown.style.display = '';
-      return;
-    }
-
-    // Prefer to insert directly before the GitHub link (so it sits just left of the icon)
-    const githubAnchor = nav.querySelector('a[href*="github.com"]');
-
-    if (githubAnchor && githubAnchor.parentNode) {
-      githubAnchor.parentNode.insertBefore(countdown, githubAnchor);
-      countdown.style.display = '';
-      return;
-    }
-
-    // Fallback: append to nav's main container (and CSS will push it right)
-    const container = nav.querySelector('.container, .container-fluid') || nav;
-    container.appendChild(countdown);
-    countdown.style.display = '';
-  }
-
-  // Try to place after DOM ready; try again shortly after as Quarto themes sometimes render parts late
-  document.addEventListener('DOMContentLoaded', placeCountdown);
-  setTimeout(placeCountdown, 300);
-})();
-</script>
-
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
