@@ -23,6 +23,8 @@ website:
         text: Accommodation
       - href: content/venue.qmd
         text: Venue & Locations
+      - href: content/ecr-events.qmd
+        text: ECR Events
       - href: content/committee.qmd
         text: Organising Committee
     right:
