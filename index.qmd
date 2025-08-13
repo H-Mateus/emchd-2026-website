@@ -48,7 +48,50 @@ Join us in Cardiff, the capital of Wales, for five days of science, collaboratio
 
 We are excited to welcome world-class keynote speakers:
 
-![](images/250812-153321.avif)
+
+:::: {.columns}
+
+::: {.column width="40%"}
+## Prof Siddharthan Chandran
+
+UK DRI Director, CEO  
+University of Endinburgh, UK  
+:::
+
+::: {.column width="40%"}
+![](images/250813-102720.avif)
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="40%"}
+## Prof Menna Clatworthy
+
+University of Cambridge, UK  
+:::
+
+::: {.column width="60%"}
+![](images/250813-103059.avif)
+:::
+
+::::
+
+:::: {.columns}
+
+::: {.column width="40%"}
+## Prof V. Michael Holers
+
+University of Colorado, USA  
+:::
+
+::: {.column width="30%"}
+![](images/250813-103241.avif)
+:::
+
+::::
+
 
 # Abstract Submission
 
