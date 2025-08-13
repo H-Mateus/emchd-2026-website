@@ -37,7 +37,7 @@ var countdownFunction = setInterval(function() {
 
 :::
 
-# Join us in cardiff for EMCHD 2026
+# Join us in Cardiff for EMCHD 2026
 
 We are delighted to welcome you to the **20th European Meeting on Complement in Human Disease (EMCHD26)**, taking place from **1st - 5th September 2026** in **Cardiff, Wales**.
 
