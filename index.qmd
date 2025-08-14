@@ -50,53 +50,43 @@ We are excited to welcome world-class keynote speakers:
 
 ## Prof Siddharthan Chandran
 
-:::: {.columns}
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
+![](images/250813-102720.avif){.img-fluid width="250"}
+:::
 
-::: {.column width="40%"}
-
+::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
 UK DRI Director, CEO  
-University of Endinburgh, UK  
+University of Edinburgh, UK  
 [https://www.ukdri.ac.uk/team/siddharthan-chandran](https://www.ukdri.ac.uk/team/siddharthan-chandran)
 :::
-
-::: {.column width="40%"}
-![](images/250813-102720.avif)
-:::
-
 ::::
 
 ## Prof Menna Clatworthy
 
-:::: {.columns}
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
+![](images/250813-103059.avif){.img-fluid width="250"}
+:::
 
-::: {.column width="45%"}
-
+::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
 University of Cambridge, UK  
 [https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy](https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy)
 :::
-
-::: {.column width="55%"}
-![](images/250813-103059.avif)
-:::
-
 ::::
 
 ## Prof V. Michael Holers
 
-:::: {.columns}
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
+![](images/250813-103241.avif){.img-fluid width="250" height="250"}
+:::
 
-::: {.column width="45%"}
-
+::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
 University of Colorado, USA  
 [https://som.cuanschutz.edu/Profiles/Faculty/Profile/4950](https://som.cuanschutz.edu/Profiles/Faculty/Profile/4950)
 :::
-
-::: {.column width="30%"}
-![](images/250813-103241.avif)
-:::
-
 ::::
-
 
 # Abstract Submission
 
