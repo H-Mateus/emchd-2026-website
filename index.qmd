@@ -48,11 +48,11 @@ Join us in Cardiff, the capital of Wales, for five days of science, collaboratio
 
 We are excited to welcome world-class keynote speakers:
 
+## Prof Siddharthan Chandran
 
 :::: {.columns}
 
 ::: {.column width="40%"}
-## Prof Siddharthan Chandran
 
 UK DRI Director, CEO  
 University of Endinburgh, UK  
@@ -65,25 +65,27 @@ University of Endinburgh, UK
 
 ::::
 
+## Prof Menna Clatworthy
+
 :::: {.columns}
 
-::: {.column width="40%"}
-## Prof Menna Clatworthy
+::: {.column width="45%"}
 
 University of Cambridge, UK  
 [https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy](https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy)
 :::
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 ![](images/250813-103059.avif)
 :::
 
 ::::
 
+## Prof V. Michael Holers
+
 :::: {.columns}
 
-::: {.column width="40%"}
-## Prof V. Michael Holers
+::: {.column width="45%"}
 
 University of Colorado, USA  
 [https://som.cuanschutz.edu/Profiles/Faculty/Profile/4950](https://som.cuanschutz.edu/Profiles/Faculty/Profile/4950)

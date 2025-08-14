@@ -4,10 +4,11 @@ title: "Venue & Locations"
 
 All venues are fully accessible.
 
+## Centre for Student Life (CSL)  
+
 :::: {.columns}
 
 ::: {.column width="40%"}
-Centre for Student Life (CSL)  
 [1st – 5th Sep 2026]  
 
 - Main Conference  
@@ -24,10 +25,11 @@ Park Place, Cardiff, CF10 3BB, Cardiff University, Wales
 
 ::::
 
+## Hadyn Ellis Building  
+
 :::: {.columns}
 
 ::: {.column width="40%"}
-Hadyn Ellis Building  
 [1st Sep 2026]  
 
 - Teaching Day
@@ -42,10 +44,11 @@ Maindy Road, Cardiff, CF24 4HQ, Cardiff University, Wales (11 min walk from CSL)
 
 ::::
 
+## Hilton Hotel, Cardiff city centre  
+
 :::: {.columns}
 
 ::: {.column width="40%"}
-Hilton Hotel, Cardiff city centre  
 [4th Sep 2026]  
 
 - Gala Dinner
