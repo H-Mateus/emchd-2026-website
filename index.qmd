@@ -1,5 +1,5 @@
 ---
-title: "EMCDH 2026"
+title: "EMCHD 2026"
 title-block-banner: images/banner.png
 #include-after-body: countdown.html
 ---
@@ -7,7 +7,7 @@ title-block-banner: images/banner.png
 ::: {.column-margin}
 
 <div style="font-size:1.3em; font-weight:bold;">
-  <span style="color:#D30707;">Countdown to EMCDH 2026:</span><br>
+  <span style="color:#D30707;">Countdown to EMCHD 2026:</span><br>
   <span id="countdown" style="color:#00693E;"></span>
 </div>
 
@@ -52,7 +52,7 @@ We are excited to welcome world-class keynote speakers:
 
 :::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
-![](images/250813-102720.avif){.img-fluid width="250"}
+![](./images/siddhartan-portrait.svg){.img-fluid width="250"}
 :::
 
 ::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
@@ -66,7 +66,7 @@ University of Edinburgh, UK
 
 :::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
-![](images/250813-103059.avif){.img-fluid width="250"}
+![](./images/menna-portrait.svg){.img-fluid width="250"}
 :::
 
 ::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
@@ -79,7 +79,7 @@ University of Cambridge, UK
 
 :::: {.grid}
 ::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
-![](images/250813-103241.avif){.img-fluid width="250" height="250"}
+![](./images/michael-portrait.svg){.img-fluid width="250"}
 :::
 
 ::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
