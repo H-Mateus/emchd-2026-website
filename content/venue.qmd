@@ -4,7 +4,7 @@ title: "Venue & Locations"
 
 All venues are fully accessible.
 
-## Centre for Student Life (CSL)  
+## Centre for Student Life (CSL)
 
 :::: {.columns}
 
@@ -39,12 +39,12 @@ Maindy Road, Cardiff, CF24 4HQ, Cardiff University, Wales (11 min walk from CSL)
 :::
 
 ::: {.column width="60%"}
-![](venue-img/250812-152041.avif)
+![](venue-img/250818-121600.avif)
 :::
 
 ::::
 
-## Hilton Hotel, Cardiff city centre  
+## Hilton Hotel, Cardiff city centre
 
 :::: {.columns}
 
@@ -62,4 +62,3 @@ Kingsway, Greyfriars Road, Cardiff CF10 3HH, Wales (10 min walk from CSL)
 :::
 
 ::::
-
