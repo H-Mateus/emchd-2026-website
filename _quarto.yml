@@ -6,12 +6,12 @@ website:
   title: "EMCHD 2026"
   favicon: images/250812-155445.avif
   site-url: https://emchd2026.org/
-  announcement:
-    icon: info-circle
-    dismissable: true
-    content: "**Alert** - This Website is under construction"
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: info-circle
+  #   dismissable: true
+    # content: "**Alert** - This Website is under construction"
+    # type: primary
+    # position: below-navbar
   navbar:
     logo: images/250812-155445.avif
     left:
