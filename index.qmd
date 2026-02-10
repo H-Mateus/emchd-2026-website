@@ -141,7 +141,18 @@ We’re excited to welcome you to EMCHD2026 to share science, ideas, and a littl
 
 We thank our sponsors for their generous support in making this meeting possible.
 
-![](images/250812-153940.avif)
+[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center"}](https://www.ukdri.ac.uk/)
+
+The UK Dementia Research Institute (UK DRI) is a globally leading multidisciplinary research institute principally funded by the Medical Research Council (MRC). 
+The UK DRI is dedicated to changing the outlook for people living with or at risk of neurodegenerative conditions, including Alzheimer's, frontotemporal dementia, Huntington's, Lewy body dementia, motor neuron disease, Parkinson's, vascular dementia, and more. 
+Its community of over 1000 researchers across 7 leading Universities are accelerating the discovery, development and delivery of interventions that will help diagnose, treat, and ultimately prevent neurodegeneration. 
+The institute is funded by the MRC, Alzheimer's Society, Alzheimer's Research UK, LifeArc, British Heart Foundation, NIHR and Parkinson's UK.
+
+[![](images/Svar.png){fig-align="center"}](https://www.svarlifescience.com/)
+
+[![](images/HycultBio.jpg){fig-align="center"}](https://www.hycultbiotech.com/)
+
+[![](images/quidel-ortho-indigo-white-logo.png){fig-align="center"}](https://www.quidelortho.com/)
 
 More to join! 
 
