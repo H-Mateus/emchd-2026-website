@@ -6,6 +6,8 @@ title-block-banner: images/banner.png
 
 ::: {.column-margin}
 
+<div style="border: 2px solid #00693E; border-radius: 8px; padding: 0.8em; background-color: #f9f9f9;">
+
 <div style="font-size:1.3em; font-weight:bold;">
   <span style="color:#D30707;">Countdown to EMCHD 2026:</span><br>
   <span id="countdown" style="color:#00693E;"></span>
@@ -34,6 +36,21 @@ var countdownFunction = setInterval(function() {
     days + "d " + hours + "h " + minutes + "m " + seconds + "s";
 }, 1000);
 </script>
+
+<div style="border-top: 1px solid #00693E; margin: 0.6em 0;"></div>
+
+<div style="font-size:1.3em; font-weight:bold;">
+  <span style="color:#D30707;">Registration & Abstracts</span><br>
+  <span style="color:#00693E;">Now Open!</span>
+</div>
+
+<div style="margin-top:0.5em; font-size:0.95em; line-height:1.6;">
+  📋 <a href="https://www.eventsforce.net/cbs/frontend/reg/thome.csp?pageID=178086&eventID=724&CSPCHD=000001000000RSsr5tSQVu$U89Ob73coFMT_0UIRlG1BnW0nXO" style="color:#00693E; font-weight:bold;">Register here</a><br>
+  📝 <a href="https://app.oxfordabstracts.com/auth?redirect=/stages/80645/submitter" style="color:#00693E; font-weight:bold;">Submit abstracts here</a><br>
+  <span style="color:#D30707; font-weight:bold;">⏰ Abstract deadline: 30 April 2026</span>
+</div>
+
+</div>
 
 :::
 
@@ -90,19 +107,15 @@ University of Colorado, USA
 
 # Abstract Submission
 
-Abstracts will be submitted via **Oxford Abstracts**, and accepted abstracts, along with Invited Reviews, will be published in a Special Issue of **Clinical & Experimental Immunology (Wiley)**.
+Abstracts are submitted via **Oxford Abstracts**, and accepted abstracts, along with Invited Reviews, will be published in a Special Issue of **Clinical & Experimental Immunology (Wiley)**.
 
-Abstract Submission opens in early 2026. 
-Please check back for updates or sign up for notifications ([emchd2026@cardiff.ac.uk](mailto:emchd2026@cardiff.ac.uk)).
+Abstract Submission is now open until the 30th of April 2026: [https://app.oxfordabstracts.com/auth?redirect=/stages/80645/submitter](https://app.oxfordabstracts.com/auth?redirect=/stages/80645/submitter)
 
 # Registration
 
 ## Main Conference [1st – 5th Sep 2026]
 
-Registration will open in early 2026.  
-Please check back for updates or sign up for notifications.  
-
-**Register your interest / Join mailing list**: [emchd2026@cardiff.ac.uk](mailto:emchd2026@cardiff.ac.uk)
+Registration is now open here: [https://www.eventsforce.net](https://www.eventsforce.net/cbs/frontend/reg/thome.csp?pageID=178086&eventID=724&CSPCHD=000001000000RSsr5tSQVu$U89Ob73coFMT_0UIRlG1BnW0nXO)
 
 ## Satellite Symposium: Complement and the Brain [1st Sep 2026]
 
@@ -113,7 +126,7 @@ In the late afternoon of the satellite symposium the keynote will be delivered b
 
 We are grateful to the UK DRI for supporting this event. 
 
-Registration will be open in early 2026 to all (including those not attending the main conference).
+Registration is open to all (including those not attending the main conference).
 
 ## Social Excursions [4th Sep 2026, afternoon]
 
@@ -141,19 +154,19 @@ We’re excited to welcome you to EMCHD2026 to share science, ideas, and a littl
 
 We thank our sponsors for their generous support in making this meeting possible.
 
-[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center"}](https://www.ukdri.ac.uk/)
-
-The UK Dementia Research Institute (UK DRI) is a globally leading multidisciplinary research institute principally funded by the Medical Research Council (MRC). 
-The UK DRI is dedicated to changing the outlook for people living with or at risk of neurodegenerative conditions, including Alzheimer's, frontotemporal dementia, Huntington's, Lewy body dementia, motor neuron disease, Parkinson's, vascular dementia, and more. 
-Its community of over 1000 researchers across 7 leading Universities are accelerating the discovery, development and delivery of interventions that will help diagnose, treat, and ultimately prevent neurodegeneration. 
-The institute is funded by the MRC, Alzheimer's Society, Alzheimer's Research UK, LifeArc, British Heart Foundation, NIHR and Parkinson's UK.
+## Gold Sponsors
 
 [![](images/Svar.png){fig-align="center"}](https://www.svarlifescience.com/)
+
+## Silver Sponsors
 
 [![](images/HycultBio.jpg){fig-align="center"}](https://www.hycultbiotech.com/)
 
 [![](images/quidel-ortho-indigo-white-logo.png){fig-align="center"}](https://www.quidelortho.com/)
 
+## Satellite Symposium Sponsors
+
+[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center"}](https://www.ukdri.ac.uk/)
 More to join! 
 
 **See you in Cardiff!**
