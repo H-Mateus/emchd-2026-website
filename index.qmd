@@ -105,6 +105,19 @@ University of Colorado, USA
 :::
 ::::
 
+## Prof Baljit S. Khakh
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
+![](./images/bal_portrait.svg){.img-fluid width="250"}
+:::
+
+::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
+Cardiff University, UK  
+[https://www.ukdri.ac.uk/team/baljit-s-khakh](https://www.ukdri.ac.uk/team/baljit-s-khakh)
+:::
+::::
+
 # Abstract Submission
 
 Abstracts are submitted via **Oxford Abstracts**, and accepted abstracts, along with Invited Reviews, will be published in a Special Issue of **Clinical & Experimental Immunology (Wiley)**.
