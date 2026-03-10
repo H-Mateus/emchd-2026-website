@@ -65,20 +65,6 @@ Join us in Cardiff, the capital of Wales, for five days of science, collaboratio
 
 We are excited to welcome world-class keynote speakers:
 
-## Prof Siddharthan Chandran
-
-:::: {.grid}
-::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
-![](./images/siddhartan-portrait.svg){.img-fluid width="250"}
-:::
-
-::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
-UK DRI Director, CEO  
-University of Edinburgh, UK  
-[https://www.ukdri.ac.uk/team/siddharthan-chandran](https://www.ukdri.ac.uk/team/siddharthan-chandran)
-:::
-::::
-
 ## Prof Menna Clatworthy
 
 :::: {.grid}
@@ -167,20 +153,28 @@ We’re excited to welcome you to EMCHD2026 to share science, ideas, and a littl
 
 We thank our sponsors for their generous support in making this meeting possible.
 
-## Gold Sponsors
+## Gold Sponsor
 
-[![](images/Svar.png){fig-align="center"}](https://www.svarlifescience.com/)
+[![](images/Svar-blue-embossed-tagline-no-background-RGB-72dpi.png){fig-align="center" width=120%}](https://www.svarlifescience.com/)
 
 ## Silver Sponsors
 
-[![](images/HycultBio.jpg){fig-align="center"}](https://www.hycultbiotech.com/)
+:::: {.columns}
 
-[![](images/quidel-ortho-indigo-white-logo.png){fig-align="center"}](https://www.quidelortho.com/)
+::: {.column width="50%"}
+[![](images/HycultBio.jpg){fig-align="center" width=75%}](https://www.hycultbiotech.com/)
+:::
 
-## Satellite Symposium Sponsors
+::: {.column width="50%"}
+[![](images/quidel-ortho-indigo-white-logo.png){fig-align="center" width=75%}](https://www.quidelortho.com/)
+:::
 
-[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center"}](https://www.ukdri.ac.uk/)
-More to join! 
+::::
+
+
+## Satellite Symposium Sponsor
+
+[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center" width=50%}](https://www.ukdri.ac.uk/)
 
 **See you in Cardiff!**
 
