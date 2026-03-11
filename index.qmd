@@ -155,7 +155,7 @@ We thank our sponsors for their generous support in making this meeting possible
 
 ## Gold Sponsor
 
-[![](images/Svar-blue-embossed-tagline-no-background-RGB-72dpi.png){fig-align="center" width=120%}](https://www.svarlifescience.com/)
+[![](images/Svar-logo.svg){fig-align="center" width=120%}](https://www.svarlifescience.com/)
 
 ## Silver Sponsors
 
