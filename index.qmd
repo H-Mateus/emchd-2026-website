@@ -104,6 +104,19 @@ Cardiff University, UK
 :::
 ::::
 
+## Prof William Gray
+
+:::: {.grid}
+::: {.g-col-12 .g-col-md-6 .order-2 .order-md-1}
+![](./images/liam_portrait.svg){.img-fluid width="250"}
+:::
+
+::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
+Cardiff University, UK  
+[https://healthandcareresearchwales.org/gray](https://healthandcareresearchwales.org/gray)
+:::
+::::
+
 # Abstract Submission
 
 Abstracts are submitted via **Oxford Abstracts**, and accepted abstracts, along with Invited Reviews, will be published in a Special Issue of **Clinical & Experimental Immunology (Wiley)**.
