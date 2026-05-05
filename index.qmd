@@ -184,10 +184,29 @@ We thank our sponsors for their generous support in making this meeting possible
 
 ::::
 
+:::: {.columns}
+
+::: {.column width="50%"}
+[![](images/compvide_logo.png){fig-align="center" width=75%}](https://www.compvide.com)
+:::
+
+::: {.column width="50%"}
+[![](./images/exserabiolabs_logo.png){fig-align="center" width=75%}](https://www.exserabiolabs.org)
+:::
+
+::::
+
+## Bronze Sponsors
+
+[![](images/sobi_logo.jpeg){fig-align="center" width=40%}](https://www.sobi.com/en)
+
+## Poster Refreshment
+
+[![](./images/perceive_biotherapeutics_logo.jpg){fig-align="center" width=40%}](https://perceivebio.com)
 
 ## Satellite Symposium Sponsor
 
-[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center" width=50%}](https://www.ukdri.ac.uk/)
+[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center" width=40%}](https://www.ukdri.ac.uk/)
 
 **See you in Cardiff!**
 
