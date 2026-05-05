@@ -1,0 +1,86 @@
+---
+title: "Conference Programme"
+# page-layout: full
+---
+
+# Conference Programme
+
+The programme below is provisional and subject to change.
+
+::: {.panel-tabset}
+
+## Day 1 - 2 September
+
+### Teaching Day / Satellite Symposium
+
+| Time | Session |
+|---|---|
+| 08:00 | Registration opens |
+| 09:00 | Keynote 1 |
+| 10:00 | Coffee break |
+| 10:30 | Session 1 |
+| 12:00 | SVAR Awards x2 |
+| 12:45 | Lunch |
+| 13:45 | Session 2 |
+| 15:15 | Coffee break |
+| 15:45 | Session 3 |
+| 17:15 | Poster session 1 |
+| 18:45 | Free time |
+| 20:00 | Speakers dinner |
+
+
+## Day 2 - 3 September
+
+| Time | Session |
+|---|---|
+| 08:50 | Announcements |
+| 09:00 | Keynote 2 |
+| 10:00 | Coffee break |
+| 10:30 | Session 4 |
+| 12:00 | ECN Medal talks x2 |
+| 12:45 | Sponsor talks |
+| 13:00 | Lunch |
+| 13:45 | Session 5 |
+| 15:15 | Lambris Training Award |
+| 15:35 | Coffee break |
+| 16:00 | Poster Session 2 |
+| 17:30 | Networking Like a Boss |
+| 18:30 | Free time |
+| 19:30 | ECR Social / Delegate Social |
+
+
+## Day 3 - 4 September
+
+| Time | Session |
+|---|---|
+| 08:50 | Announcements |
+| 09:00 | Keynote 3 |
+| 10:00 | Coffee break |
+| 10:30 | Session 6 |
+| 12:00 | SVAR Talk |
+| 12:15 | ECN General |
+| 12:30 | Lunch |
+| 13:30 | Innovation / Commercialisation |
+| 13:30 | Session 7 |
+| 15:00 | Social excursion |
+| 18:00 | Free time |
+| 20:00 | Conference dinner |
+
+## Day 4 - 5 September
+
+| Time | Session |
+|---|---|
+| 07:50 | ECN Board Meeting |
+| 08:50 | Announcements |
+| 09:00 | Session 8 |
+| 10:30 | Coffee break |
+| 11:00 | Intracellular Complement Review Statement |
+| 11:25 | ECCO Journal Editor Award Talk |
+| 11:40 | Awards Ceremony |
+| 12:00 | Future Meetings |
+| 12:20 | Concluding remarks |
+| 12:30 | Packed lunch and departure |
+| 13:30 | End of meeting |
+
+:::
+
