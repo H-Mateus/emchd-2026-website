@@ -30,25 +30,25 @@ Svar Life Science is built on proud Scandinavian roots, strong values, and a glo
 
 ## QuidelOrtho
 
-[![](images/quidel-ortho-indigo-white-logo.png){fig-align="center" width=50%}](https://www.quidelortho.com/)
+[![](../images/quidel-ortho-indigo-white-logo.png){fig-align="center" width=50%}](https://www.quidelortho.com/)
 
 **QuidelOrtho Specialty Products Group (SPG)** is a well-established name in immune system monitoring, assays for the assessment of complement activation and biosafety and cytotoxicity testing. 
 QuidelOrtho SPG's MicroVue product portfolio includes ELISAs, multiplex, antibodies, proteins, depleted sera, normal human serum, cobra venom factor and special reagents for all your complement research needs.
  
 
-[![](images/HycultBio.jpg){fig-align="center" width=50%}](https://www.hycultbiotech.com/)
+[![](../images/HycultBio.jpg){fig-align="center" width=50%}](https://www.hycultbiotech.com/)
 
-[![](images/compvide_logo.png){fig-align="center" width=50%}](https://www.compvide.com)
-[![](./images/exserabiolabs_logo.png){fig-align="center" width=50%}](https://www.exserabiolabs.org)
+[![](../images/compvide_logo.png){fig-align="center" width=50%}](https://www.compvide.com)
+[![](./../images/exserabiolabs_logo.png){fig-align="center" width=50%}](https://www.exserabiolabs.org)
 # Bronze Sponsors
 
-[![](images/sobi_logo.jpeg){fig-align="center" width=40%}](https://www.sobi.com/en)
+[![](../images/sobi_logo.jpeg){fig-align="center" width=40%}](https://www.sobi.com/en)
 
 ## Poster Refreshment
 
-[![](./images/perceive_biotherapeutics_logo.jpg){fig-align="center" width=40%}](https://perceivebio.com)
+[![](../images/perceive_biotherapeutics_logo.jpg){fig-align="center" width=40%}](https://perceivebio.com)
 
 ## Satellite Symposium Sponsor
 
-[![](images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center" width=40%}](https://www.ukdri.ac.uk/)
+[![](../images/UK_DRI_Logo_Pack_2025/UK_DRI_Logo_Core/PNG/logo.png){fig-align="center" width=40%}](https://www.ukdri.ac.uk/)
 
