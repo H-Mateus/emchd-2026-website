@@ -44,6 +44,30 @@ Maindy Road, Cardiff, CF24 4HQ, Cardiff University, Wales (11 min walk from CSL)
 
 ::::
 
+## Brewhouse & Kitchen
+
+:::: {.columns}
+
+::: {.column width="40%"}
+[3rd Sep 2026]  
+
+- Delegate social
+
+Sophia Cl, Pontcanna, Cardiff CF11 9HW  
+[https://www.brewhouseandkitchen.com/venue/cardiff/](https://www.brewhouseandkitchen.com/venue/cardiff/)
+:::
+
+::: {.column width="60%"}
+![](venue-img/brew_house.avif)
+:::
+
+::::
+
+
+ 
+
+
+
 ## Hilton Hotel, Cardiff city centre
 
 :::: {.columns}
@@ -62,3 +86,4 @@ Kingsway, Greyfriars Road, Cardiff CF10 3HH, Wales (10 min walk from CSL)
 :::
 
 ::::
+
