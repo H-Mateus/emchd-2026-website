@@ -27,6 +27,8 @@ website:
         text: Venue & Locations
       - href: content/ecr-events.qmd
         text: ECR Events
+      - href: content/sponsor.qmd
+        text: Sponsors
       - href: content/committee.qmd
         text: Organising Committee
     right:
