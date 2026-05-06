@@ -29,6 +29,8 @@ website:
         text: ECR Events
       - href: content/sponsor.qmd
         text: Sponsors
+      - href: content/awards.qmd
+        text: Awards
       - href: content/committee.qmd
         text: Organising Committee
     right:
