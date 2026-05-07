@@ -4,16 +4,34 @@ title: "Venue & Locations"
 
 All venues are fully accessible.
 
+## Welsh Royal College of Music and Drama
+
+:::: {.columns}
+
+::: {.column width="40%"}
+[1st Sept 2026]  
+
+- Opening ceremony with Welsh male choir performance  
+
+North Road, Cathays Park, Cardiff, CF10 3ER, Wales  
+[https://www.rwcmd.ac.uk/](https://www.rwcmd.ac.uk/)
+:::
+
+::: {.column width="60%"}
+![](venue-img/260507-095840.avif)
+:::
+
+::::
+
 ## Centre for Student Life (CSL)
 
 :::: {.columns}
 
 ::: {.column width="40%"}
-[1st – 5th Sep 2026]  
+[1st – 5th Sept 2026]  
 
 - Main Conference  
 - Satellite Symposium  
-- Opening ceremony
 
 Park Place, Cardiff, CF10 3BB, Cardiff University, Wales  
 [https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/centre-for-student-life](https://www.cardiff.ac.uk/visit/accessibility/cathays-park-campus/centre-for-student-life)
@@ -30,7 +48,7 @@ Park Place, Cardiff, CF10 3BB, Cardiff University, Wales
 :::: {.columns}
 
 ::: {.column width="40%"}
-[1st Sep 2026]  
+[1st Sept 2026]  
 
 - Teaching Day
 
@@ -49,7 +67,7 @@ Maindy Road, Cardiff, CF24 4HQ, Cardiff University, Wales (11 min walk from CSL)
 :::: {.columns}
 
 ::: {.column width="40%"}
-[3rd Sep 2026]  
+[3rd Sept 2026]  
 
 - Delegate social
 
@@ -63,17 +81,12 @@ Sophia Cl, Pontcanna, Cardiff CF11 9HW
 
 ::::
 
-
- 
-
-
-
 ## Hilton Hotel, Cardiff city centre
 
 :::: {.columns}
 
 ::: {.column width="40%"}
-[4th Sep 2026]  
+[4th Sept 2026]  
 
 - Gala Dinner
 

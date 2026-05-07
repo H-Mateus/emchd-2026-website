@@ -35,10 +35,19 @@ Svar Life Science is built on proud Scandinavian roots, strong values, and a glo
 **QuidelOrtho Specialty Products Group (SPG)** is a well-established name in immune system monitoring, assays for the assessment of complement activation and biosafety and cytotoxicity testing. 
 QuidelOrtho SPG's MicroVue product portfolio includes ELISAs, multiplex, antibodies, proteins, depleted sera, normal human serum, cobra venom factor and special reagents for all your complement research needs.
  
-
-[![](../images/HycultBio.jpg){fig-align="center" width=50%}](https://www.hycultbiotech.com/)
+## Compvide
 
 [![](../images/compvide_logo.png){fig-align="center" width=50%}](https://www.compvide.com)
+
+**Compvide** is a Seattle-based biotechnology company focused on advancing complement system diagnostics and immune monitoring technologies. The company is developing CIMED™ (Complement Inhibition Monitoring & Efficacy Determination), a novel platform designed to measure complement pathway activity, complement deficiencies, and complement drug efficacy under physiologic, high-serum conditions. Unlike conventional assays that rely on highly diluted serum, CIMED enables functional assessment of the alternative, lectin, and classical complement pathways in conditions that better reflect human biology.
+
+Compvide's technology supports translational research, complement drug development, complement deficiency screening, and patient monitoring applications, with potential use across autoimmune, renal, inflammatory, infectious, and hematologic diseases. The platform is being developed for both Research Use Only (RUO) applications and future clinical diagnostic implementation.
+
+The company collaborates with leading scientists, pharmaceutical partners, and manufacturing organizations to accelerate innovation in complement therapeutics and diagnostics. Compvide’s mission is to bridge the gap between complement-targeted therapies and real-time functional immune monitoring, helping advance precision medicine in complement-related diseases.
+
+Learn more by visiting [compvide.com](https://www.compvide.com/)
+
+[![](../images/HycultBio.jpg){fig-align="center" width=50%}](https://www.hycultbiotech.com/)
 
 [![](../images/exserabiolabs_logo.png){fig-align="center" width=50%}](https://www.exserabiolabs.org)
 
