@@ -47,7 +47,15 @@ The company collaborates with leading scientists, pharmaceutical partners, and m
 
 Learn more by visiting [compvide.com](https://www.compvide.com/)
 
+## HycultBio
+
 [![](../images/HycultBio.jpg){fig-align="center" width=50%}](https://www.hycultbiotech.com/)
+
+We are proud to be a leading manufacturer of innate immunity research reagents, with a special focus on complement pathways. Our mission has always been to find answers to your questions and work towards improving health. We have been fulfilling this mission since 1994.
+
+Our team possesses extensive expertise in the development and production of assays, antibodies, and proteins. We are committed to supporting scientists worldwide in their research on human diseases.
+ 
+{{< video https://youtu.be/dDxYCDoCmuE >}}
 
 [![](../images/exserabiolabs_logo.png){fig-align="center" width=50%}](https://www.exserabiolabs.org)
 
