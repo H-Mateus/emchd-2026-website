@@ -40,14 +40,14 @@ var countdownFunction = setInterval(function() {
 <div style="border-top: 1px solid #00693E; margin: 0.6em 0;"></div>
 
 <div style="font-size:1.3em; font-weight:bold;">
-  <span style="color:#D30707;">Registration</span><br>
+  <span style="color:#D30707;">Registration & Abstracts</span><br>
   <span style="color:#00693E;">Now Open!</span>
 </div>
 
 <div style="margin-top:0.5em; font-size:0.95em; line-height:1.6;">
   📋 <a href="https://www.eventsforce.net/cbs/frontend/reg/thome.csp?pageID=178086&eventID=724&CSPCHD=000001000000RSsr5tSQVu$U89Ob73coFMT_0UIRlG1BnW0nXO" style="color:#00693E; font-weight:bold;">Register here</a><br>
-  📝 <a href="https://app.oxfordabstracts.com/auth?redirect=/stages/80645/submitter" style="color:#00693E; font-weight:bold;">Abstract submission now closed</a><br>
-  <span style="color:#D30707; font-weight:bold;">⏰ Abstract deadline: 15 May 2026</span>
+  📝 <a href="https://app.oxfordabstracts.com/auth?redirect=/stages/80645/submitter" style="color:#00693E; font-weight:bold;">Late Abstract Submission Open (poster presentations only)</a><br>
+  <span style="color:#D30707; font-weight:bold;">⏰ Abstract deadline: 31 July 2026</span>
 </div>
 
 </div>
