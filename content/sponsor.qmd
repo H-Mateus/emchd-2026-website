@@ -5,6 +5,8 @@ title: "Sponsors"
 
 # Gold Sponsor - Svar Life Science 
 
+[![](../images/Svar-logo.svg){fig-align="center" width=100%}](https://www.svarlifescience.com/)
+
 **At Svar Life Science, we are complementing life science.**
 
 We transform how life science, pharma, healthcare, and academic partners advance their **complement related testing, analysis, and assessment needs.** With a unique combination of expertise, high quality products, specialized services, and proprietary technology platforms, Svar delivers **end to end, customizable solutions that no single provider can match**.
