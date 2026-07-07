@@ -7,26 +7,31 @@ title: "Conference Programme"
 
 The programme below is provisional and subject to change.
 
+### Pre-Conference Events
+
+Before the main meeting begins on Day 1, attendees have the opportunity to join one of our two parallel pre-conference tracks: the Training Day or the Complement in the Brain Symposium.  
+Please check the schedule below for specific timings before the main meeting convenes.
+
 ::: {.panel-tabset}
 
 ## Training Day - 1 Sept
 
-| Time  | Event |
-|-------|-------|
-| 8:30  | Registration Open |
-| 9:00  | Welcome Address – Elena Goicoechea |
-| 9:30  | **Parallel Sessions 1** <br><br> **Session A:** Introduction to Complement – *Sarah Carpanini* <br> **Session B:** Complement: Where we are, how we got here, and where we might be going – *Richard Harrison* <br> **Session C:** Complement Structural Biology – *Jean Van Den Elsen* |
-| 10:15 | Coffee Break |
-| 10:40 | **Parallel Sessions 2** <br><br> **Session A:** Complement and Cancer – *Silvia Guglietta* <br> **Session B:** Complement in Infectious Disease – *Suzan Rooijakkers* <br> **Session C:** Complement and Kidney Disease – *Felix Poppelaars* |
-| 11:25 | Comfort Break |
-| 11:30 | **Parallel Sessions 3** <br><br> **Session A:** Complement Therapeutics – *Claire Harris* <br> **Session B:** Intracellular Complement – *Lubka Roumenina* <br> **Session C:** Complement Genetics – *Hector Merinero* |
-| 12:15 | Lunch |
-| 13:15 | Careers in Research and Beyond Panel |
-| 14:05 | Comfort Break |
-| 14:10 | Complement Methods Panel |
-| 15:00 | Coffee Break |
-| 15:25 | Intracellular Complement Panel – *"What actually is controversial in the subject of intracellular complement?"* |
-| 16:25 | Depart for Keynote Address |
+| Time | Event |
+|---|---|
+| 8:30 | Registration |
+| 9:00-9:25 | Welcome – Elena Goicoechea de Jorge |
+| 9:30-10:15 | **Parallel Sessions 1** <br><br> **Session 1:** Introduction to complement – *Sarah Carpanini* <br> **Session 2:** Complement – Past, Present and Future – *Richard Harrison* <br> **Session 3:** Complement structural biology – *Jean Van Den Elsen* |
+| 10:15-10:40 | Coffee Break |
+| 10:40-11:25 | **Parallel Sessions 2** <br><br> **Session 1:** Complement and Cancer – *Silvia Guglietta* <br> **Session 2:** Complement in Infectious Disease – *Suzan Rooijakkers* <br> **Session 3:** Complement and Autoimmunity – *Felix Poppelaars* |
+| 11:25-11:30 | Comfort break |
+| 11:30-12:15 | **Parallel Sessions 3** <br><br> **Session 1:** Complement Therapeutics – *Claire Harris* <br> **Session 2:** Non-canonical Roles of Complement – *Lubka Roumenina* <br> **Session 3:** Complement Genetics - *Hector Merinero* |
+| 12:15-13:15 | Lunch |
+| 13:15-14:05 | **Careers in Research and Beyond Panel** <br><br> **Chair:** Lewis Watkins <br> Khalil Mallah - Newly Established PI <br> Megan Torvell - Teaching <br> Lana Evans – Lab management <br> Samuel Butler – Industry rep (Svar) <br> Andy Robertson – Biotech Sales (VWR) |
+| 14:05-14:10 | Comfort break |
+| 14:10-15:00 | **Complement Methods Panel** <br><br> **Chair:** Kevin Marchbank <br> Protein purification – Nicole Schäfer <br> Haemolytic assays – Robert Byrne <br> ELISAs - Nikoleta Daskoulidou <br> SPR – Kok Yung Lee <br> Complement Animal Models – Kevin Marchbank |
+| 15:00-15:25 | Coffee Break |
+| 15:25-16:25 | **Intracellular Complement Debate** <br><br> *"What actually is controversial in the subject of intracellular complement?"* <br><br> **Chair:** Jean Van Den Elsen <br> Ben King, Lubka Roumenina, Christoph Schmidt, Gregers Rom Andersen |
+| 16:25 | Depart for Keynote address |
 
 ## Complement in the Brain Symposium Programme - 1 Sept
 
