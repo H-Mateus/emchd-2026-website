@@ -34,12 +34,16 @@ website:
       - href: content/committee.qmd
         text: Organising Committee
     right:
+      - icon: envelope
+        href: "mailto:EMCHD2026@cardiff.ac.uk"
+        aria-label: Contact
       - icon: github
         href: https://github.com/H-Mateus/emchd-2026-website
   page-footer:
     left: "Content is licensed under the [GPL 3.0
       License](https://www.gnu.org/licenses/gpl-3.0.en.html)"
-    center: "Made by [Mateus Harrington](https://mateusharrington.com) with
+    center: "Contact: [EMCHD2026@cardiff.ac.uk](mailto:EMCHD2026@cardiff.ac.uk)
+      · Made by [Mateus Harrington](https://mateusharrington.com) with
       [Quarto](https://quarto.org)"
     right:
       - icon: github
