@@ -3,3 +3,6 @@
 .DS_Store
 
 **/*.quarto_ipynb
+
+# Large source PDFs kept locally; the web copy lives in files/
+/*.pdf
