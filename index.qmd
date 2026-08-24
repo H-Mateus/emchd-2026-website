@@ -74,7 +74,7 @@ We are excited to welcome world-class keynote speakers:
 
 ::: {.g-col-12 .g-col-md-6 .order-1 .order-md-2}
 University of Cambridge, UK  
-[https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy](https://www.cardiovascular.cam.ac.uk/directory/menna-clatworthy)
+[Professor Menna Clatworthy FMedSci | Cambridge Immunology Network](https://www.immunology.cam.ac.uk/Networkdirectory/mrc)
 :::
 ::::
 
@@ -201,6 +201,8 @@ We thank our sponsors for their generous support in making this meeting possible
 [![](images/sobi_logo.jpeg){fig-align="center" width=40%}](https://www.sobi.com/en)
 
 [![](images/CompTech_Logo_2025.jpeg){fig-align="center" width=40%}](https://www.complementtech.com/)
+
+[![](../images/AZ_Alexion_FINAL_LOCKUP_RGB_Positive.png){fig-align="center" width=40%}](https://alexion.com/worldwide/UK/)
 
 ## Poster Refreshment
 
